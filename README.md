@@ -1,1 +1,1 @@
-# Create and manage employees with using a REST API
+# Create and manage employees with using a RESTful API
